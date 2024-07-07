@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.oldPrice{
+  text-decoration: line-through;
+  color: rgb(240, 142, 142);
+  font-size: small;
+}
+.newPrice{
+  color: green;
+  font-size: large;
+}
+.navend{
+  margin-right: 100px;
+  margin: auto;
+}
